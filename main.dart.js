@@ -60474,7 +60474,7 @@ $3(a,b,c){return this.a.CH()},
 $S:24}
 A.Vt.prototype={
 dC(a,b){var s,r,q,p=null,o=b.N($.fT(),t.e),n=b.N($.ix(),t.jm),m=b.N($.cJ().$1("branding"),t.R),l=n===B.b2?B.je:o.c,k=A.ch(m),j=k==null?p:J.ab(k,"site_name")
-if(j==null)j="EDUCAD"
+if(j==null)j=""
 k=A.b([A.mq(new A.akF(j),p,B.ay,B.cE,new A.aI(0.9,1,t.Y),t.i),B.I,A.m(this.f,p,p,p,p,A.b1().$4$color$fontSize$fontWeight$letterSpacing(A.v(B.d.J(178.5),B.e.j()>>>16&255,B.e.j()>>>8&255,B.e.j()&255),14,B.ex,3),p,p,p),B.ZE],t.p)
 if(this.e){s=A.v(B.d.J(25.5),B.e.j()>>>16&255,B.e.j()>>>8&255,B.e.j()&255)
 r=A.w(8)
