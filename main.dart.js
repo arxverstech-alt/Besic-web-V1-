@@ -51883,7 +51883,7 @@ $S:837}
 A.Vq.prototype={
 dD(a,b){var s=b.N($.bkg(),t.cb),r=b.N($.bjW(),t.we),q=b.N($.ix(),t.jm),p=A.cc(b.N($.cD().$1("branding"),t.R))
 p=p==null?null:J.ab(p,"site_name")
-return new A.A6(s,p==null?"EDUCAD":p,r,q,!1,null)}}
+return new A.A6(s,p==null?"":p,r,q,!1,null)}}
 A.b2T.prototype={
 $1(a){var s=$.lK().b
 s===$&&A.a()
